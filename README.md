@@ -1,4 +1,3 @@
-Hi👋 I’m Francisco Mónica
+# Hi there👋
+I'm Francisco Mónica and I'm a Computer Science (LEIC) student 🎓 at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/). In my free time, I enjoy doing 🏋calisthenics and staying active.
 
-- 🏋️ I do calisthenics in my spare time 
-- 🎓 Studying Computer Science (LEIC) at Instituto Superior Técnico
